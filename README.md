@@ -231,4 +231,5 @@ waardes wil vergelijken, zul je één van de twee eerst moeten omzetten naar een
     * Een CSS reset;
     * Font-declaraties en globale typografie toewijzingen voor titels, buttons en invoervelden;
     * CSS-variabelen voor de kleuren die je wil gebruiken;
-    * Globale css-classes zoals de `inner-container` en `outer-container`;
+    * Globale css-classes zoals de `inner-container` en `outer-container`;#   r e a c t - b l o g  
+ 
