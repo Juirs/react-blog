@@ -1,0 +1,36 @@
+.post-details {
+    padding: 2rem;
+}
+
+.read-time {
+    color: #aaa;
+    font-size: 2rem;
+}
+
+.subtitle {
+    font-size: 1.5rem;
+    color: #333;
+    font-weight: normal;
+}
+
+.author {
+    font-size: 1.1rem;
+    color: #555;
+    margin-bottom: 1rem;
+}
+
+.content {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+.interaction {
+    margin-bottom: 1rem;
+    color: #aaa;
+}
+
+.back-link {
+    color: limegreen;
+    text-decoration: none;
+}
